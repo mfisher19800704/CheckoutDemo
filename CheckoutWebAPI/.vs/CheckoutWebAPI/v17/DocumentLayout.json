@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|CheckoutWebAPI.csproj|c:\\temp\\development\\katas\\checkout\\checkoutwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|CheckoutWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|CheckoutWebAPI.csproj|c:\\temp\\development\\katas\\checkout\\checkoutwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|CheckoutWebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|Checkout.API.csproj|c:\\temp\\development\\katas\\checkout\\checkoutwebapi\\checkoutwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|Checkout.API.csproj|solutionrelative:checkoutwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|Checkout.API.csproj|c:\\temp\\development\\katas\\checkout\\checkoutwebapi\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|Checkout.API.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E41FD-6B24-4DCB-9B69-5F70C2948E75}|..\\Checkout.Core\\Checkout.Core.csproj|c:\\temp\\development\\katas\\checkout\\checkout.core\\services\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5342BF69-49E0-4287-872B-123F44A4EF50}|..\\Checkout.Testing\\Checkout.Testing.csproj|c:\\temp\\development\\katas\\checkout\\checkout.testing\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E41FD-6B24-4DCB-9B69-5F70C2948E75}|..\\Checkout.Core\\Checkout.Core.csproj|c:\\temp\\development\\katas\\checkout\\checkout.core\\interfaces\\icheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E41FD-6B24-4DCB-9B69-5F70C2948E75}|..\\Checkout.Core\\Checkout.Core.csproj|c:\\temp\\development\\katas\\checkout\\checkout.core\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E41FD-6B24-4DCB-9B69-5F70C2948E75}|..\\Checkout.Core\\Checkout.Core.csproj|c:\\temp\\development\\katas\\checkout\\checkout.core\\classes\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E41FD-6B24-4DCB-9B69-5F70C2948E75}|..\\Checkout.Core\\Checkout.Core.csproj|c:\\temp\\development\\katas\\checkout\\checkout.core\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E41FD-6B24-4DCB-9B69-5F70C2948E75}|..\\Checkout.Core\\Checkout.Core.csproj|c:\\temp\\development\\katas\\checkout\\checkout.core\\interfaces\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5342BF69-49E0-4287-872B-123F44A4EF50}|..\\Checkout.Testing\\Checkout.Testing.csproj|c:\\temp\\development\\katas\\checkout\\checkout.testing\\checkout.testing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|Checkout.API.csproj|c:\\temp\\development\\katas\\checkout\\checkoutwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|Checkout.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|Checkout.API.csproj|c:\\temp\\development\\katas\\checkout\\checkoutwebapi\\checkout.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEA7A2A6-5BC4-4925-B053-9298ABD357DA}|Checkout.API.csproj|solutionrelative:checkout.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Classes\\Discount.cs",
+              "RelativeDocumentMoniker": "..\\Checkout.Core\\Classes\\Discount.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Classes\\Discount.cs",
+              "RelativeToolTip": "..\\Checkout.Core\\Classes\\Discount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:05:22.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDiscount.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Interfaces\\IDiscount.cs",
+              "RelativeDocumentMoniker": "..\\Checkout.Core\\Interfaces\\IDiscount.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Interfaces\\IDiscount.cs",
+              "RelativeToolTip": "..\\Checkout.Core\\Interfaces\\IDiscount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:57:58.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Checkout.Core\\Classes\\Product.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Classes\\Product.cs",
+              "RelativeToolTip": "..\\Checkout.Core\\Classes\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:56:40.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "..\\Checkout.Core\\Interfaces\\IProduct.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "..\\Checkout.Core\\Interfaces\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:54:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Testing\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "..\\Checkout.Testing\\CheckoutTests.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Testing\\CheckoutTests.cs",
+              "RelativeToolTip": "..\\Checkout.Testing\\CheckoutTests.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:53:01.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICheckout.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Interfaces\\ICheckout.cs",
+              "RelativeDocumentMoniker": "..\\Checkout.Core\\Interfaces\\ICheckout.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Interfaces\\ICheckout.cs",
+              "RelativeToolTip": "..\\Checkout.Core\\Interfaces\\ICheckout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:36:32.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:19:22.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Services\\Checkout.cs",
+              "RelativeDocumentMoniker": "..\\Checkout.Core\\Services\\Checkout.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Core\\Services\\Checkout.cs",
+              "RelativeToolTip": "..\\Checkout.Core\\Services\\Checkout.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:48:31.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:26:03.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutWebAPI.http",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\CheckoutWebAPI.http",
+              "RelativeDocumentMoniker": "CheckoutWebAPI.http",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\CheckoutWebAPI.http",
+              "RelativeToolTip": "CheckoutWebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-08T09:33:42.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:35:46.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Checkout.Testing",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Testing\\Checkout.Testing.csproj",
+              "RelativeDocumentMoniker": "..\\Checkout.Testing\\Checkout.Testing.csproj",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\Checkout.Testing\\Checkout.Testing.csproj",
+              "RelativeToolTip": "..\\Checkout.Testing\\Checkout.Testing.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T11:30:15.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Checkout.API",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\Checkout.API.csproj",
+              "RelativeDocumentMoniker": "Checkout.API.csproj",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\Checkout.API.csproj",
+              "RelativeToolTip": "Checkout.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T09:33:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Temp\\Development\\Katas\\Checkout\\CheckoutWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T09:33:45.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Temp\Development\Katas\Checkout\Checkout.Core\bin\Debug\net8.0\Checkout.Core.deps.json
+C:\Temp\Development\Katas\Checkout\Checkout.Core\bin\Debug\net8.0\Checkout.Core.dll
+C:\Temp\Development\Katas\Checkout\Checkout.Core\bin\Debug\net8.0\Checkout.Core.pdb
+C:\Temp\Development\Katas\Checkout\Checkout.Core\obj\Debug\net8.0\Checkout.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Development\Katas\Checkout\Checkout.Core\obj\Debug\net8.0\Checkout.Core.AssemblyInfoInputs.cache
+C:\Temp\Development\Katas\Checkout\Checkout.Core\obj\Debug\net8.0\Checkout.Core.AssemblyInfo.cs
+C:\Temp\Development\Katas\Checkout\Checkout.Core\obj\Debug\net8.0\Checkout.Core.csproj.CoreCompileInputs.cache
+C:\Temp\Development\Katas\Checkout\Checkout.Core\obj\Debug\net8.0\Checkout.Core.dll
+C:\Temp\Development\Katas\Checkout\Checkout.Core\obj\Debug\net8.0\refint\Checkout.Core.dll
+C:\Temp\Development\Katas\Checkout\Checkout.Core\obj\Debug\net8.0\Checkout.Core.pdb
+C:\Temp\Development\Katas\Checkout\Checkout.Core\obj\Debug\net8.0\ref\Checkout.Core.dll

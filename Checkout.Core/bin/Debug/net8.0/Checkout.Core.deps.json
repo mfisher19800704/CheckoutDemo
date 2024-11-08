@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Checkout.Core/1.0.0": {
+        "runtime": {
+          "Checkout.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Checkout.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
